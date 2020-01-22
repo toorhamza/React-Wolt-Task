@@ -11,9 +11,9 @@ The WOLT task details can be found here [https://github.com/woltapp/summer2020](
 
 # Run Source Files
 
-Download the task and run 
+Download or clone the repo and and install dependencies using 
 ### `npm install` 
-to install all the dependencies
+
 
 After installation you can start this react app using 
 
